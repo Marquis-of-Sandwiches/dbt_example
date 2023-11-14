@@ -1,2 +1,2 @@
 # dbt_example
-dbt demo
+dbt demo using postgresql server
